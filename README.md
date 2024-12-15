@@ -109,12 +109,12 @@ This repository showcases my projects, including analyses on rental trends, tena
 
 ---
 
-## 🏆 Badges
+### 🏆 Badges
 - **AWS Academy Graduate**:https://www.credly.com/badges/dec4de76-8112-49b7-8fc7-7e5dcb5f961d/print   
 
 ---
 
-## 📬 Contact Information
+### 📬 Contact Information
 - **LinkedIn**: www.linkedin.com/in/vikram-reddy-gudupally-785928250   
 - **Email**: vikramgudupally@gmail.com
 - **UCW Student ID**: 2318295 
