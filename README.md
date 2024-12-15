@@ -1,4 +1,4 @@
-# data-analyst-vikram
+# Vikram Reddy-Data Analyst Portfolio
 
 ## 🚀 About Me
 Hi there 👋, I am **Vikram Reddy Gudupally**. I hold a **B.Com in Computer Applications** from India and am currently pursuing an **MBA at University Canada West**, Vancouver, BC, Canada.  
